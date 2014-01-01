@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%
 	String contextPath = request.getContextPath();
 %>
@@ -12,7 +12,7 @@
 	<!-- 
 	<hr/>
 	--版本:1.3.1
-	<br />日期：？？？？
+	<br />日期：？？？？ d
 	<br />
 	<br />基本介绍：
 	<br />--此版本新增内部邮件和内部消息管理；
